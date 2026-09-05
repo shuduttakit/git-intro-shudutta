@@ -56,3 +56,5 @@ common diff options:
   -a  --text    treat all files as text.
 
 (END)
+
+
