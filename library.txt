@@ -23,10 +23,6 @@ newline
 diff -h
 usage: git diff [<options>] [<commit>] [--] [<path>...]
    or: git diff [<options>] --cached [--merge-base] [<commit>] [--] [<path>...]
-   or: git diff [<options>] [--merge-base] <commit> [<commit>...] <commit> [--] [<path>...]
-   or: git diff [<options>] <commit>...<commit> [--] [<path>...]
-   or: git diff [<options>] <blob> <blob>
-   or: git diff [<options>] --no-index [--] <path> <path>
 
 common diff options:
   -z            output diff-raw with lines terminated with NUL.
