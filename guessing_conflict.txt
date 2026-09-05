@@ -1,7 +1,7 @@
 Question A
-
+    93%
 Question B
-
+    61.2%
 Question C
-
+    7,850,200
 End
