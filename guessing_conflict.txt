@@ -1,7 +1,7 @@
 Question A
-
+    90%
 Question B
-
+    35%
 Question C
-
+    1 Million Liter
 End
